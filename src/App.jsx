@@ -4,6 +4,7 @@ import Banner from './components/Banner/Banner'
 import Navbar from './components/Navbar/Navbar'
 import Service from './components/Service/Service'
 import Success from './components/Success/Success'
+import Work from './components/Work/Work'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
       <Banner></Banner>
       <Success></Success>
       <Service></Service>
+      <Work></Work>
     </>
   )
 }
